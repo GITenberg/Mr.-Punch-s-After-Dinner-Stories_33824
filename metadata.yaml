@@ -1,0 +1,42 @@
+_repo: Mr.-Punch-s-After-Dinner-Stories_33824
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 33824-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'PN'
+- !lcsh 'Dinners and dining -- Humor'
+title: Mr. Punch's After-Dinner Stories
+url: http://www.gutenberg.org/ebooks/33824
